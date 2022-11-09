@@ -19,7 +19,18 @@ Take a photo and then select a style to transform it into – Cartoon, sketch, p
   
       Open the command prompt on your console and then typ:
          
-         pip install open-cv python
+         pip install opencv-python
+         
+  ### 2. Procedure:
+     
+   First, we import the cv2 library in our console to use built-in functions from this library with the help of the following line. Then we take a variable name image    and store the read image in it with the help of the following line. Then we take a variable name image and store the read image in it with the help of the following    line. After this the gray image is inverted by the use of the following code. After this the gray image is inverted by the use of the following code. This blurred      image is again inverted and is saved in the variable inverted blur which is mentioned in the code file Now we sketch the inverted blurred image by using the divide    built-in function in library. Now we sketch the inverted blurred image by using the divide built-in function in library.
+
+
+
+
+### 3. Result:
+  ![image](https://user-images.githubusercontent.com/97732099/200860741-17c01c5b-83df-46c4-bd5e-5202ed41221e.png)
+
          
       
      
