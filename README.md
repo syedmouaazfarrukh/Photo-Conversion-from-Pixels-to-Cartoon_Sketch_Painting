@@ -2,6 +2,7 @@
 
 Take a photo and then select a style to transform it into – Cartoon, sketch, painting.
 
+
   ### 1. Theoretical Knowledge:
   - Background Knowledge:
   
